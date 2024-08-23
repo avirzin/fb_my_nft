@@ -2,7 +2,10 @@
 
 My implementation of the Fireblock Summer Camp 2024 Web3 Workshop.
 
+The .env file is missing. It is necessary to create it and define the following variables:
 
+- FIREBLOCKS_API_KEY;
+- FIREBLOCKS_SECRET_KEY_PATH.
 
 Publishing the smart contract to the Ethereum Sepolia test network using Fireblocks:
 
